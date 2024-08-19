@@ -1,0 +1,54 @@
+{
+    "personalInfo" : {
+        "name": "Ivan Ermolenko",
+        "position": "Senior Software Engineer",
+        "email": "naviyear.ikota@gmail.com",
+        "phone": "+381677439147",
+        "linkedin": "https://www.linkedin.com/in/iermolenko/",
+        "telegram": "https://t.me/ivanprofun"
+    },
+    "aboutSection" : "Experienced Senior Software Engineer with 5 years of experience in developing and optimizing user-friendly web applications.",
+    "employmentHistory": [
+        {
+            "position" : "Senior Software Engineer",
+            "time-range": ["May-2023"],
+            "company-name": "Grid Dynamics",
+            "achievements" : [
+                "Migrated old product solutions to a new stack (Backbone.js -> Vue.js).",
+                "Developed high-performance, scalable, and responsive e-commerce applications using Vue, TypeScript and Node.js.",
+                "Created comprehensive unit tests for web applications using Jest.",
+                "Worked on optimizing accessibility and performance of web applications. Improved performance metrics for the product page from 40 to 90 points (Lighthouse/Pagespeed Insights).",
+                "Led a team of four engineers. Conducted daily code reviews. Wrote documentation and development best practices."
+            ]
+        },
+        {
+            "position" : "Software Engineer",
+            "time-range": ["May-2021","May-2022"],
+            "company-name": "Grid Dynamics",
+            "achievements" : [
+                "Developed video streaming application from scratch.",
+                "Integrated video functionality into existing product applications.",
+                "Increased unit test coverage from 0 to 80%. Wrote tests using Jest and vue-test-utils.",
+                "Developed Node.js caching layer to reduce the number of requests sent to the third- party video streaming service. Changed the application architecture - instead of sending individual requests (more than 40) when the page loads, now several large requests are sent once a day (the number of requests decreased by 99%)."
+            ]
+        },
+        {
+            "position" : "Frontend Engineer",
+            "time-range": ["Feb-2020","May-2021"],
+            "company-name": "Kameleoon",
+            "achievements" : [
+                "Development of pop-ups varying complexity, development of iframes to add additional content to the site, analytics setup, development of complex forms, etc. Support for older browsers (including IE 11).",
+                "Created and sustained A/B and A/A tests as well as widgets for global clients utilizing Vanilla JavaScript.",
+                "Refactoring and rewriting existing legacy components on the client-side using React. Assessing, estimating, and furnishing technical descriptions for forthcoming tasks."
+            ]
+        }
+    ],
+    "education" : {
+        "time-range":["2013","2018"],
+        "degree":"Specialist",
+        "faculty": "Engineering and Navigation"
+    },
+    "Skills":["Javascript","Typescript","Node.js","Vue","React", "Next", "Nuxt"],
+    "Certifications": ["Google cloud digital leader"],
+    "Languages": ["Russian","English"]
+}

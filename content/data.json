@@ -11,8 +11,8 @@
     "employmentHistory": [
         {
             "position" : "Senior Software Engineer",
-            "time-range": ["May-2023"],
-            "company-name": "Grid Dynamics",
+            "timeRange": ["May-2023"],
+            "companyName": "Grid Dynamics",
             "achievements" : [
                 "Migrated old product solutions to a new stack (Backbone.js -> Vue.js).",
                 "Developed high-performance, scalable, and responsive e-commerce applications using Vue, TypeScript and Node.js.",
@@ -23,8 +23,8 @@
         },
         {
             "position" : "Software Engineer",
-            "time-range": ["May-2021","May-2022"],
-            "company-name": "Grid Dynamics",
+            "timeRange": ["May-2021","May-2022"],
+            "companyName": "Grid Dynamics",
             "achievements" : [
                 "Developed video streaming application from scratch.",
                 "Integrated video functionality into existing product applications.",
@@ -34,8 +34,8 @@
         },
         {
             "position" : "Frontend Engineer",
-            "time-range": ["Feb-2020","May-2021"],
-            "company-name": "Kameleoon",
+            "timeRange": ["Feb-2020","May-2021"],
+            "companyName": "Kameleoon",
             "achievements" : [
                 "Development of pop-ups varying complexity, development of iframes to add additional content to the site, analytics setup, development of complex forms, etc. Support for older browsers (including IE 11).",
                 "Created and sustained A/B and A/A tests as well as widgets for global clients utilizing Vanilla JavaScript.",
@@ -43,12 +43,14 @@
             ]
         }
     ],
-    "education" : {
-        "time-range":["2013","2018"],
+    "additionalInfo":{    
+        "Education" : {
+        "timeRange":["2013","2018"],
         "degree":"Specialist",
         "faculty": "Engineering and Navigation"
-    },
-    "Skills":["Javascript","Typescript","Node.js","Vue","React", "Next", "Nuxt"],
-    "Certifications": ["Google cloud digital leader"],
-    "Languages": ["Russian","English"]
+        },
+        "Skills":["Javascript","Typescript","Node.js","Vue","React", "Next", "Nuxt"],
+        "Certifications": ["Google cloud digital leader"],
+        "Languages": ["Russian","English"]
+    }
 }
